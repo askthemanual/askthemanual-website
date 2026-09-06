@@ -1,2 +1,3 @@
-# askthemanual-website
-Official website for Ask the Manual
+# Ask the Manual website
+
+Official website for Ask the Manual.
